@@ -1,0 +1,30 @@
+20% 2000 words   (minimum 1800 words) total = 1633
+Chapter 1: Introduction -> 587
+Chapter 2: Literature Review and aims and objectives -> 1046
+
+10% 1000 words (minimum 900 words) total = 784
+Chapter 3: Requirements Analysis 
+
+30% 3000 words (minimum 2700 words)
+Chapter 4: Design and Methodology
+Chapter 5: Implementation
+
+
+20% 2000 words (minumum 1800 words)
+Chapter 6: Results and Discussion
+
+
+10% 1000 words (minimim 900 words)
+Chapter 7: Conclusion
+
+
+
+
+
+
+
+
+set of aims and lit review = 20% -> 2000 words
+
+Methodology = 10% -> 1000 words
+
